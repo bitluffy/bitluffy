@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yash Singh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# 👋 Hi, I'm Yash Singh!
 
 ## 🧠 Bio
 🚀 Aspiring tech enthusiast with a strong foundation in software development, passionate about leveraging technology to solve real-world problems.  
@@ -29,26 +29,10 @@
 
 ---
 
-## 📈 GitHub Activity
-
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitluffy&show_icons=true&theme=radical&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitluffy&layout=compact&theme=tokyonight)
-
----
-
-## ✨ Fun Tech Animation
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77070&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
-</p>
-
----
-
 ## 🔗 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yash-singh-b270a9247/)
 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
